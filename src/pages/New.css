@@ -1,0 +1,20 @@
+form#post-form {
+    width: 100%;
+    max-width: 580px;
+    margin: 30px 0 auto;
+    padding: 30px;
+    background: #fff;
+    border: 1px solid #ddd;
+
+
+}
+
+form#post-form input {
+  width: 100%;
+}
+
+div#content-form{
+  display: flex;
+  justify-content: center;
+}
+

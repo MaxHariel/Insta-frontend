@@ -1,0 +1,19 @@
+header#main-header{
+  background: #fff;
+  height: 72px;
+  border-bottom: 1px solid #ddd;
+  display: flex;
+  justify-content: center;
+} 
+
+header#main-header .header-content{
+    width: 100%;
+    max-width: 1200px;
+    height: 72px;
+    padding: 0 30px;
+
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
